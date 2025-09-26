@@ -8,5 +8,6 @@ and save them to a fixed folder in `.mp4` format.
 1. Install requirements:
    ```bash
    pip install -r requirements.txt
-## run script with: python downloader.py into cmd 
-## out put : full play list
+2. run script with:
+```bash
+python downloader.py
