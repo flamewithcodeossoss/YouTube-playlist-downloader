@@ -2,8 +2,8 @@ import yt_dlp
 import os
 
 # === Settings ===
-output_folder = r"C:/Users/YourUsername/Downloads/YouTubePlaylist"  # Replace with your desired output folder
-playlist_url = "https://www.youtube.com/playlist?list=PLg9h6b0nQ1mX5jv1kz8F2F2F2F2F2F2F"  # Replace with your playlist URL
+output_folder = r"F:\mini-rag\downloads"  # Replace with your desired output folder
+playlist_url = "https://www.youtube.com/playlist?list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj"  # Replace with your playlist URL
 
 # Ensure folder exists
 os.makedirs(output_folder, exist_ok=True)
